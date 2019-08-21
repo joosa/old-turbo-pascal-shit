@@ -1,0 +1,24 @@
+unit hiiri1;
+
+interface
+
+type
+	napit=(vasen,oikea,keski);
+	asento=(ylos,alas);
+
+	muutos=record
+		kpl,x,y:word;
+	end;
+
+	nappi=record
+		nyt:word;
+		m:array[asento]of muutos;
+	end;
+
+	hiiri=;
+
+const
+	maski:array[napit]of byte=(1,2,4);
+
+implementation
+end.

@@ -1,0 +1,114 @@
++------------------------------+
+| LIERO v0.25 - (c) 1998 Lozzi |
++------------------------------+
+English documentation is not available yet. (Will it never be?)
+
+Sis„lt”:
+  1 Yleist„ + laillista
+  2 Laitteistovaatimukset
+  3 N„pp„imet
+  4 Muut toiminnot
+  5 Historia
+  6 Tulevaisuus
+  7 Loppu
+
+1 Yleist„ + laillista
++--------------------
+LIERO on kahden pelattava aseellinen matopeli. Tarkoituksena on
+ep„ilem„tt„ se mit„ luuletkin. LIERO sopii erinomaisen hyvin
+aggressioiden purkuun ja kaverin rokitt„miseen k„ytt„m„tt„ lainkaan
+fyysist„ v„kivaltaa (?) tai muuten vaan hauskanpitoon.
+
+HUOM!
+KŽYTŽT LIEROA TŽYSIN OMALLA VASTUULLA.
+Emme (tai en) siis vastaa mist„„n sen aiheuttamista fyysisist„,
+henkisist„ (pitk„ liuta, en jaksa luetella) jne. vahingoista.
+
+2 Laitteistovaatimukset
++----------------------
+Minimikokoonpano:
+  * 386 prosessori + matikkaprossu
+  * VGA n„yt”nohjain
+  * noin 570 kt vapaata perusmuistia
+  * noin 1 Mt vapaata XMS-muistia
+  * Sound Blaster yhteensopiva „„nikortti
+    (ei viel„ toimi ilman „„nikorttia! Sorry)
+
+Suositeltava kokoonpano:
+  * 486DX tai Pentium prosessori
+  * SVGA n„yt”nohjain (mihin SVGAa tarttee?)
+  * 600 kt vapaata perusmuistia (aina parempi mit„ enemm„n)
+  * 1 Mt vapaata XMS-muistia
+  * Sound Blaster 16 (tai uudempi)
+  * hyv„ n„ppis (siis vanha), joka voi k„sitel„ monta (enemm„n kuin 5)
+    painallusta yhtaikaa
+  * 2 pelaajaa
+  * muutama sivustakatsoja
+  * 2200 watin vahvistin ja kunnolliset kaiuttimet (ja volyymi kaakkoon)
+
+3 N„pp„imet
++----------
+     Toiminto        Sininen        Vihre„  
+   ------------    -----------    -----------
+   Vasemmalle           A         Nuoli vasen
+   Oikealle             D           "   oikea
+   T„ht„in yl”s         W           "   yl”s
+   T„ht„in alas         S           "   alas
+   Ampuminen       vasen Ctrl     oikea Ctrl
+   Aseen Vaihto      "   Shift      "   Alt
+   Hyppy             "   Alt        "   Shift
+
+Remote Bombin laukaisu tapahtuu pit„m„ll„ vaihto pohjassa ja
+painamalla ampumista. Pommit laukeavat asetusj„rjestyksess„
+(pit„isi ainakin).
+Ninja rope heitet„„n pit„m„ll„ vaihto pohjassa ja painamalla
+hyppy„. Mato p„„see irti hyppy-napilla.
+Kaivelu lapiolla tapahtuu painamalla kumpaakin suuntaan yht„aikaa
+(vasen + oikea). Siin„h„n ne t„rkeimm„t.
+
+4 Muut toiminnot
++---------------
+Ennen pelin k„ynnist„mist„ voit vaihtaa matojen nimi„ tiedostossa NAMES.DAT.
+Lataa tiedosto esim. MS-DOSin EDITiin tai Windowsin Notepadiin (Muistio).
+Tee muutokset ja tallenna tiedosto. Nimi„ voi periaatteessa laittaa niin
+paljon kuin haluaa. Pelin alussa nimet valitaan sattumanvaraisesti.
+Sitten kun peli on k„ynnistetty typett„m„ll„ "LIERO", t„ytyy pelaajien valita
+aseet. Selaus tapahtuu n„pp„imill„ vasen ja oikea, ase valitaan ampumis-
+nabikalla. Mukaan voi ottaa viisi asetta 23:sta.
+
+5 Historia
++---------
+  0.1b   Ensimm„inen versio, siis pelkk„ iso bugi. Jopa 3 asetta: haulikko,
+         konekiv„„ri ja sinko. Ei aseenvalintaa (ei tarvinnu). Ei „„ni„.
+  0.11b  V„h„n pienempi iso bugi. Aseita jopa 2 lis„„: kiv„„ri ja kranaatti!
+         Aseidenvalinta pelin alussa (3 asetta mukaan). SB-„„net!
+  0.12b  Suurimmat bugit poistettu. Nyt aseita noin 12. Aseita saa raahata
+         4 skibaletta mukana. Ninja rope lis„tty.
+  0.2b   16 asetta. Kauheimmat bugit korjattu. Lis„„ „„ni„. Lapio!!
+         Ninja rope on paljon realistisempi. R„j„hdykset vaikuttaa
+         miinoihin ym.
+  0.21b  Uusia aseita: Remote Bomb, Auto Pistol, Green Ball.
+         Muita pikku (?) fixauksia, l„hinn„ kosmeettisia, mm.
+         kaivellessa lent„„ hiekka, hylsyt kimpoilevat.
+         Parempi grafiikkaengine (nopeampi?!).
+  0.25   Ei en„„ BETA! Taas lis„„ aseita: Big Nuke, Crackler, Zimm,
+         Flame Bomb. Grafiikkaa paranneltu (viel„kin kamala :).
+         Madoilla on nimet joita voi muuttaa (tiedostossa NAMES.DAT)!
+         Ensimm„inen levitysversio (?) mit„ sitten tarkoittaneekin...
+
+6 Tulevaisuus
++------------
+Ainakin alkuvalikko on tulossa. Lis„„ aseita ja muita v„lineit„?
+Ja tietenkin mit„ vaan haluatte...
+
+7 Loppu
++------
+Yksi seikka t„h„n. LIEROA ei suositella k„ytett„v„n Windowsista.
+Voi kyll„ toimia, mutta jotain mystist„ saattaa tapahtua... riippuu
+tietysti koneesta...
+HUOMAA, t„m„ on varhainen versio, siis bugeja l”ytyy aina lis„„.
+
+
+
+PS.
+Koetapa kirjoittaa "LIERO /MK" (MK = Mortal Kombat, jos et sit„ tiennyt).
